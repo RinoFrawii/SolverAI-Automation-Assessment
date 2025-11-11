@@ -3,8 +3,7 @@
 End-to-end workflow for intake → extraction → validation/enrichment → posting (double-entry) → reconciliation → exception desk → exports.
 
 ## Contents
-- `workflows/Latest_Workflow_11Nov_2.json` – Import into n8n.
-- `code/*.js` – Code nodes used by the workflow (posting engine, exceptions desk, corrections, etc.).
+- `workflows/` – Import into n8n.
 - `schemas/*.csv` – Export targets (Documents, JournalEntries, Vendors, Customers, SST, AgingSnapshots).
 - `samples/` – Minimal test artifacts (e.g., `Invoice_ABC.pdf`).
 - `docs/` – Project PDF / notes.
