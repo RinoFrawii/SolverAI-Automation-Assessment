@@ -23,7 +23,3 @@ End-to-end workflow for intake → extraction → validation/enrichment → post
 - **Documents.csv**: id | doc_type | doc_number | vendor_customer_id | issue_date | due_date | currency | subtotal | tax_rate | total  
 - **JournalEntries.csv**: je_id | date | doc_id | account | debit | credit | memo | fx_rate | base_amount  
 - **AgingSnapshots.csv**: snapshot_id | run_at | side | party_id | party_name | doc_type | doc_number | issue_date | due_date | currency | total | amount_open | days_outstanding | aging_bucket
-
-## Notes
-- No real data or secrets included. Replace placeholders in `.env`.
-- Large binaries tracked with Git LFS (optional).
