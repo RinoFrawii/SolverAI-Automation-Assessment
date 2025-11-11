@@ -9,13 +9,10 @@ End-to-end workflow for intake → extraction → validation/enrichment → post
 - `docs/` – Project PDF / notes.
 
 ## Quick Start
-1. Import `workflows/Latest_Workflow_11Nov_2.json` into n8n.
-2. Configure credentials & env:
-   - Copy `.env.example` → `.env` and fill in your tokens/URLs.
-   - Update n8n credentials UI as needed.
-3. Run triggers:
+1. Import `workflows` into n8n.
+2. Run triggers:
    - WhatsApp/Email intake → parse → extract → post → export.
-4. Review:
+3. Review:
    - Exceptions Desk produces `review_message` and supports APPROVE/REJECT/CORRECT via WhatsApp or Email replies.
 
 ## Exports
