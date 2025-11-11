@@ -1,0 +1,5 @@
+snapshot_date,direction,doc_type,doc_number,party_id,party_name,issue_date,due_date,currency,original_total,amount_paid,balance_open,days_outstanding,aging_bucket,status
+2025-11-11,AR,invoice,INV-006,CUST002,XYZ Trading,2025-11-10,,MYR,1590,4800,0,1,0-30,paid
+2025-11-11,AR,invoice,INV-006,CUST002,XYZ Trading,2025-11-10,,MYR,1590,4800,0,1,0-30,paid
+2025-11-11,AR,invoice,INV-006,CUST002,XYZ Trading,2025-11-10,,MYR,1590,4800,0,1,0-30,paid
+2025-11-11,AR,invoice,INV003,CUST001,ABC Sdn Bhd,2025-11-01,,MYR,3180,2500,680,10,0-30,partially_paid

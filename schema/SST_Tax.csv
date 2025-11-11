@@ -1,0 +1,9 @@
+date,doc_id,party_name,tax_type,tax_rate,tax_amount,base_amount,direction
+2025-11-01,invoice|INV-001|2025-11-01|3180.00,ABC Sdn Bhd,0.06,0.06,180,3000,Output
+2025-11-01,invoice|INV-001|2025-11-01|3180.00,ABC Sdn Bhd,0.06,0.06,180,3000,Output
+2025-11-01,invoice|INV-001|2025-11-01|3180.00,ABC Sdn Bhd,0.06,0.06,180,3000,Output
+2025-11-10,invoice|INV-006|2025-11-10|1590.00,XYZ Trading,0.06,0.06,90,1500,Output
+2025-11-10,invoice|INV-006|2025-11-10|1590.00,XYZ Trading,0.06,0.06,90,1500,Output
+2025-11-10,invoice|INV-006|2025-11-10|1590.00,XYZ Trading,0.06,0.06,90,1500,Output
+2025-11-10,invoice|INV-006|2025-11-10|1590.00,XYZ Trading,0.06,0.06,90,1500,Output
+2025-11-01,invoice|INV003|2025-11-01|3180.00,ABC Sdn Bhd,0.06,0.06,180,3000,Output
